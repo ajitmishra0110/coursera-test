@@ -5,7 +5,7 @@
 }
 
 body{
-  font-family: 'Lato', sans-serif;  
+  font-family: 'Oxygen', sans-serif;  
 }
 
 .row{
@@ -14,12 +14,12 @@ body{
 
 .menu-title{
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 35px;
 }
 
 .container{
  position: relative;
- top:60px;
+ top:70px;
  margin: 15px; 
 }
 
@@ -41,7 +41,8 @@ body{
 .item-title{
   position: absolute;
   top:0;
-  right: 0px;
+  right:0;
+  font-weight: bold;
   background: green; 
   padding: 6px 90px;
   border-left: 2px solid #000;
